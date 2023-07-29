@@ -1,4 +1,4 @@
-<img src="https://github.com/Invacui/Invacui/blob/main/InvacuiCar.gif" alt="Databay showcase gif" height="550px" width="1080px"/>
+<img src="https://github.com/Invacui/Invacui/blob/main/InvacuiCar.gif" alt="Databay showcase gif" height="480px" width="1080px"/>
 
 # **About Me**  	:fearful:  
 
