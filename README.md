@@ -1,6 +1,7 @@
-# **About Me** ![image](https://github.com/Invacui/Invacui/assets/89918888/e66c51f9-4b71-4404-a50c-7bcc7046f521)
+# **About Me**  	:fearful:
 
-## Hi there 👋 , My name is **Ashutosh Kumar** and I m a self-taught programmer, Gamer, and Modder. Please feel free to explore my projects and even build upon them !</br>&emsp;
+## Hi there 👋 , My name is **Ashutosh Kumar** and I m a self-taught programmer, Gamer, and Modder. Please feel free to explore my projects and even build upon them ! <img align="right" width="150" height="150"  src ="https://github.com/Invacui/Invacui/assets/89918888/72af2ded-9380-4b96-86e9-4b2d46a41f50">
+</br>&emsp;
 
 
  ### 🔭 I’m currently working on &emsp;&emsp;&emsp; <code>:: E-commerce Website</code>
@@ -16,3 +17,18 @@
  ### 😄 Pronouns... &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code><< It's just a trend>></code>
  
  ### ⚡ If you have a solution for procrastination hit me up.
+ ### ⚡ And thanks for increasing my  :point_right: ![](https://komarev.com/ghpvc/?username=Invacui&color=green)
+ ### &nbsp;
+
+# **My Stats**
+<div>
+<img src ="https://github-readme-stats.vercel.app/api?username=Invacui&theme=midnight-purple"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Invacui&theme=jolly" width="auto">
+</div>
+<div>
+<img width="230" height="300" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical"><img align="right" position: absolute width="230" height="300" src="https://github.com/Invacui/Invacui/assets/89918888/68674920-7d6b-4044-a132-658298aafb4d">
+</div>
+
+
+
+
+
