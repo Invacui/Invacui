@@ -22,7 +22,7 @@
 
 # **My Stats**
 <div>
-<img src ="https://github-readme-stats.vercel.app/api?username=Invacui&theme=midnight-purple"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Invacui&theme=jolly" width="auto">
+<img width="50%" src ="https://github-readme-stats.vercel.app/api?username=Invacui&theme=midnight-purple"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Invacui&theme=jolly" width="auto">
 </div>
 <div>
 <img width="230" height="300" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical"><img align="right" position: absolute width="230" height="300" src="https://github.com/Invacui/Invacui/assets/89918888/68674920-7d6b-4044-a132-658298aafb4d">
