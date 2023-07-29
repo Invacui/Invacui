@@ -1,4 +1,4 @@
-###About Me ![image](https://github.com/Invacui/Invacui/assets/89918888/e66c51f9-4b71-4404-a50c-7bcc7046f521)
+### About Me ![image](https://github.com/Invacui/Invacui/assets/89918888/e66c51f9-4b71-4404-a50c-7bcc7046f521)
 
 Hi there 👋 , My name is Ashutosh Kumar and I m a self-taught programmer, Gamer, and Modder. Please feel free to explore my projects and even build upon them!
 
