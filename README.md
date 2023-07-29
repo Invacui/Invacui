@@ -1,6 +1,6 @@
-![InvacuiCar](https://github.com/Invacui/Invacui/blob/master/InvacuiCar.gif)
+<img src="https://github.com/Invacui/Invacui/blob/main/InvacuiCar.gif" alt="Databay showcase gif" height="550px" width="1080px"/>
 
-# **About Me**  	:fearful:
+# **About Me**  	:fearful:  
 
 ## Hi there 👋 , My name is **Ashutosh Kumar** and I m a self-taught programmer, Gamer, and Modder. Please feel free to explore my projects and even build upon them ! <img align="right" width="150" height="150"  src ="https://github.com/Invacui/Invacui/assets/89918888/72af2ded-9380-4b96-86e9-4b2d46a41f50">
 </br>&emsp;
