@@ -3,30 +3,17 @@
 Hi there 👋 , My name is Ashutosh Kumar and I m a self-taught programmer, Gamer, and Modder. Please feel free to explore my projects and even build upon them!
 
 
- 🔭 I’m currently working on E-commerce Website
+ ### 🔭 **I’m currently working on ::** E-commerce Website
  
- 🌱 I’m currently learning Full Stack Development
+ ### 🌱 ** I’m currently learning ::** Full Stack Development
  
- 👯 I’m looking to collaborate on any web project.
+ ### 👯 **I’m looking to collaborate on ::** any web project.
  
- 💬 I love to discuss game hacking.
+ ### 💬 **I love to discuss ::** game hacking.
  
- 📫 How to reach me: ... IDK 
+ ### 📫 **How to reach me :: ** ... IDK 
  
- 😄 Pronouns: ... << It's just a trend>>
+ ### 😄 **Pronouns: ...** << It's just a trend>>
  
- ⚡ If you have a solution for procrastination hit me up.
+ ### **⚡ If you have a solution for procrastination hit me up.**
 
-<!--
-**Invacui/Invacui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on E-commerce Website
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on any web-project.
-- 💬 I love to discuss game hacking.
-- 📫 How to reach me: ... IDK 
-- 😄 Pronouns: ... << It's just a trend>>
-- ⚡ If you have a solution for procrastination hit me up.
--->
