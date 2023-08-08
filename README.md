@@ -30,7 +30,7 @@
 </p>
 </div>
 <div><p align="center">
-<img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" ><img align="right" position: absolute src="https://github.com/Invacui/Invacui/assets/89918888/68674920-7d6b-4044-a132-658298aafb4d"></p>
+<img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Invacui&layout=donut-vertical" ><img align="right" position: absolute src="https://github.com/Invacui/Invacui/assets/89918888/68674920-7d6b-4044-a132-658298aafb4d"></p>
 </div>
 
 
