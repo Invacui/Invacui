@@ -24,12 +24,12 @@
 
 # **My Stats**
 <div align="center" width="500">
-  <img width="100"
+  <img width="300"
     src="https://github-readme-stats.vercel.app/api?username=Invacui&theme=midnight-purple"
     alt="GitHub Stats"
     style={{ height: "auto" }}
   />
-  <img width="100"
+  <img width="300"
     src="https://github-readme-streak-stats.herokuapp.com?user=Invacui&theme=jolly"
     alt="GitHub Streak"
     style={{ width: "100", height: "auto" }}
