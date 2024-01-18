@@ -27,12 +27,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=Invacui&theme=midnight-purple"
     alt="GitHub Stats"
-    style={{ width: "100px", height: "auto" }}
+    style={{ width: "100", height: "auto" }}
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=Invacui&theme=jolly"
     alt="GitHub Streak"
-    style={{ width: "100px", height: "auto" }}
+    style={{ width: "100", height: "auto" }}
   />
 </div>
 
