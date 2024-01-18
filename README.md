@@ -38,10 +38,10 @@
 
 
   <div align="center" width="500">
-   <img 
+   <img align="center" width="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invacui&layout=donut-vertical"
     />
-    <img align="center" width="auto"
+    <img align="center" width="200"
       src="https://github.com/Invacui/Invacui/assets/89918888/68674920-7d6b-4044-a132-658298aafb4d"
     />
   </div>
