@@ -16,22 +16,38 @@
  
  ### 📫 How to reach me &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code>:: ... IDK</code> 
  
- ### 😄 Pronouns... &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code><< It's just a trend>></code>
+ ### 😄 InvacuI Meaning &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code><<:: Unclaimed>></code>
  
  ### ⚡ If you have a solution for procrastination hit me up.
- ### ⚡ And thanks for increasing my  :point_right: ![](https://komarev.com/ghpvc/?username=Invacui&color=green)
+ ### ⚡ And thanks for increasing my  :point_right: ![](https://komarev.com/ghpvc/?username=Invacui&color=red)
  ### &nbsp;
 
 # **My Stats**
-<div display: inline-block; >
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Invacui&theme=midnight-purple" alt="GitHub Stats" width="48%" height="auto" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Invacui&theme=jolly" alt="GitHub Streak" width="48%" height="auto" />
-</p>
+<div align="center" width="500">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Invacui&theme=midnight-purple"
+    alt="GitHub Stats"
+    style={{ width: "50%", height: "auto" }}
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Invacui&theme=jolly"
+    alt="GitHub Streak"
+    style={{ width: "50%", height: "auto" }}
+  />
 </div>
-<div><p align="center">
-<img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Invacui&layout=donut-vertical" ><img align="right" position: absolute src="https://github.com/Invacui/Invacui/assets/89918888/68674920-7d6b-4044-a132-658298aafb4d"></p>
-</div>
+
+
+  <div align="center" width="500">
+   <img align="center" width="auto"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invacui&layout=donut-vertical"
+    />
+    <img align="center" width="auto"
+      src="https://github.com/Invacui/Invacui/assets/89918888/68674920-7d6b-4044-a132-658298aafb4d"
+    />
+  </div>
+
+
+
 
 
 
