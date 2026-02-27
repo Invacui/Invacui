@@ -6,7 +6,7 @@
 </br>&emsp;
 
 
- ### 🔭 I’m currently working on &emsp;&emsp;&emsp; <code>:: TASK MANAGEMENT SYSTEM</code>
+ ### 🔭 I’m currently working on &emsp;&emsp;&emsp; <code>:: LEAD GENERATION APPLICATION</code>
  
  ### 🌱 I’m currently learning &emsp;&emsp;&emsp;&emsp;&ensp; <code>:: Full Stack Development</code>
  
@@ -14,7 +14,7 @@
  
  ### 💬 I love to discuss &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code>:: game hacking.</code>
  
- ### 📫 How to reach me &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code>:: ... IDK</code> 
+ ### 📫 How to reach me &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code>:: Hit my portfolio footer secret code </code> 
  
  ### 😄 InvacuI Meaning &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code><<:: Unclaimed>></code>
  
